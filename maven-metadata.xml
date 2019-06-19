@@ -1,0 +1,19 @@
+<metadata modelVersion="1.1.0">
+<groupId>com.accenture.disney.gqe</groupId>
+<artifactId>capacity-planning</artifactId>
+<version>1.5.2-SNAPSHOT</version>
+<versioning>
+<snapshot>
+<timestamp>20190613.112636</timestamp>
+<buildNumber>5</buildNumber>
+</snapshot>
+<lastUpdated>20190613112636</lastUpdated>
+<snapshotVersions>
+<snapshotVersion>
+<extension>jar</extension>
+<value>1.5.2-20190613.112636-5</value>
+<updated>20190613112636</updated>
+</snapshotVersion>
+</snapshotVersions>
+</versioning>
+</metadata>
